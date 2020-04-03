@@ -1,2 +1,2 @@
 # misc-java
-Small Java programs
+Small Java programs.
