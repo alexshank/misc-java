@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="Dark Calc 2.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dark_Calc_2_0</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="A small calculator application made with JavaFX and a dark color scheme." />
+        <option name="height" value="420" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Dark Calc" />
+        <option name="vendor" value="Shank Space" />
+        <option name="version" value="2.0" />
+        <option name="width" value="300" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Dark_Calc_2_0.jar">
+        <element id="module-output" name="Dark Calc 2.0" />
+      </element>
+    </root>
+  </artifact>
+</component>

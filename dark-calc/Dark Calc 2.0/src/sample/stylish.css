@@ -1,0 +1,28 @@
+.button{
+    -fx-background-color: #5c5855;
+    -fx-text-fill: #F8F8F8;
+    -fx-background-radius: 0px;
+    -fx-font-weight: bold;
+    -fx-font: 22 arial;
+}
+
+.label{
+    -fx-background-radius: 0px;
+    -fx-font: 35 arial;
+    -fx-font-weight: bold;
+    -fx-background-color: #3a3432;
+    -fx-text-fill: #F8F8F8;
+    -fx-label-padding: 10px;
+}
+
+.button:hover{
+    -fx-background-color: #4a4543;
+}
+
+#clear:hover{
+    -fx-background-color: #db2d20;
+}
+
+#equals:hover{
+    -fx-background-color: #01a0e4;
+}

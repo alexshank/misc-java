@@ -1,0 +1,25 @@
+.button{
+    -fx-background-color: #5c5855;
+    -fx-text-fill: #F8F8F8;
+    -fx-background-radius: 0px;
+    -fx-font: 22 arial;
+}
+
+.text-field{
+    -fx-background-radius: 0px;
+    -fx-font: 35 arial;
+    -fx-background-color: #3a3432;
+    -fx-text-fill: #F8F8F8;
+}
+
+.button:hover{
+    -fx-background-color: #3a3432;
+}
+
+#clear:hover{
+    -fx-background-color: #db2d20;
+}
+
+#equals:hover{
+    -fx-background-color: #01a0e4;
+}

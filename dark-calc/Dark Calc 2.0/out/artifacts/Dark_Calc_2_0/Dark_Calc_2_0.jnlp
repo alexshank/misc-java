@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Dark_Calc_2_0.jnlp">
+  <information>
+    <title>Dark Calc</title>
+    <vendor>Shank Space</vendor>
+    <description>A small calculator application made with JavaFX and a dark color scheme.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Dark_Calc_2_0.jar" size="15302" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="300" height="420" main-class="sample.Main"  name="Dark Calc 2.0" />
+  <update check="background"/>
+</jnlp>
