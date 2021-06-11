@@ -1,0 +1,5 @@
+.board-row {
+    display: flex;
+    height: calc(100% / 8);
+    width: 100%;
+}

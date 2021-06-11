@@ -1,0 +1,13 @@
+.number-labels {
+  display: flex;
+  flex-direction: column;
+  width: 25px;
+  justify-content: space-evenly;
+}
+
+.number-label {
+  display: flex;
+  justify-content: center;
+  height: calc(100% / 8);
+  align-items: center;
+}

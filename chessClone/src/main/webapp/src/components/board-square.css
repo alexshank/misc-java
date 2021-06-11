@@ -1,0 +1,39 @@
+.board-square-white {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 8);
+    border: 1px solid black;
+    background-color: white;
+}
+
+.board-square-black {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 8);
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+
+.board-square-source {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 8);
+    border: 1px solid black;
+    background-color: lightblue;
+}
+
+.board-square-destination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 8);
+    border: 1px solid black;
+    background-color: teal;
+}
+
+img {
+   max-width: 100%; 
+}
